@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Bots
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @SUPREME_BOTz
+# Subscribe YouTube Channel For Amazing Bot @SUPREME_BOTz
+# Ask Doubt on telegram @SUPREME_BOTz
 
 from plugins.Extra.utils import progress_for_pyrogram, convert, humanbytes
 from pyrogram import Client, filters
