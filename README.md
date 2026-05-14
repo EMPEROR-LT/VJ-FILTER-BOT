@@ -8,28 +8,28 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
 </p>
 
-## Main Feature 
+## Main Feature
 <b>
-  
+
 - [x] Clone Feature & On / Off
 - [x] Multiple Database Support & On / Off
-- [x] Premium Plan Feature 
+- [x] Premium Plan Feature
 - [x] Refer To Get Premium
-- [x] Ai Spell Check 
+- [x] Ai Spell Check
 - [x] Custom Force Subscribe
 - [x] Rename Feature & On / Off
-- [x] Premium And Refer On / Off 
-- [x] Stream Feature On / Off 
-- [x] Url Shortner On / Off  
+- [x] Premium And Refer On / Off
+- [x] Stream Feature On / Off
+- [x] Url Shortner On / Off
 - [x] Pm Search On / Off
-- [x] Request To Join Force Subscribe With Auto File Send 
+- [x] Request To Join Force Subscribe With Auto File Send
 - [x] Custom Stream
-- [x] Stream Feature With Many Player Support 
+- [x] Stream Feature With Many Player Support
 - [x] Language & Season & Quality & Episode & Year Choose Option
 - [x] Auto Approve & On / Off
 - [x] Custom Url Shortner Support
 - [x] Token Verification & On / Off
-- [x] Send All Button 
+- [x] Send All Button
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete
 
@@ -51,7 +51,7 @@ Join My <a href='https://t.me/SUPREME_BOTz'>Update Channel</a> For More Update R
 • /settings - 𝑇𝑜 𝑜𝑝𝑒𝑛 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑚𝑒𝑛𝑢
 • /filter - 𝑎𝑑𝑑 𝑚𝑎𝑛𝑢𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
 • /filters - 𝑣𝑖𝑒𝑤 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /connect - 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑡𝑜 𝑃𝑀.
+• /connect - 𝑐𝑜𝑛𝑛𝑒ᴄ𝑡 𝑡𝑜 𝑃𝑀.
 • /disconnect - 𝑑𝑖𝑠𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑓𝑟𝑜𝑚 𝑃𝑀
 • /del - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑓𝑖𝑙𝑡𝑒𝑟
 • /delall - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
@@ -62,7 +62,7 @@ Join My <a href='https://t.me/SUPREME_BOTz'>Update Channel</a> For More Update R
 • /imdb - 𝑓𝑒𝑡𝑐ℎ 𝑖𝑛𝑓𝑜 𝑓𝑟𝑜𝑚 𝑖𝑚𝑑𝑏.
 • /search - 𝑇𝑜 𝑠𝑒𝑎𝑟𝑐ℎ 𝑓𝑟𝑜𝑚 𝑣𝑎𝑟𝑖𝑜𝑢𝑠 𝑠𝑜𝑢𝑟𝑐𝑒𝑠
 • /users - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑚𝑦 𝑢𝑠𝑒𝑟𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠.
-• /chats - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡ℎ𝑒 𝑚𝑦 𝑐ℎ𝑎𝑡𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠 
+• /chats - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡ℎ𝑒 𝑚𝑦 𝑐ℎ𝑎𝑡𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠
 • /leave  - 𝑡𝑜 𝑙𝑒𝑎𝑣𝑒 𝑓𝑟𝑜𝑚 𝑎 𝑐ℎ𝑎𝑡.
 • /disable  -  𝑑𝑜 𝑑𝑖𝑠𝑎𝑏𝑙𝑒 𝑎 𝑐ℎ𝑎𝑡.
 • /enable - 𝑟𝑒-𝑒𝑛𝑎𝑏𝑙𝑒 𝑐ℎ𝑎𝑡.
@@ -93,7 +93,7 @@ Join My <a href='https://t.me/SUPREME_BOTz'>Update Channel</a> For More Update R
 • /fsub - 𝑎𝑑𝑑 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑖𝑛 𝑔𝑟𝑜𝑢𝑝
 • /nofsub - 𝑟𝑒𝑚𝑜𝑣𝑒 𝑜𝑟 𝑜𝑓𝑓 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
 • /rename - 𝑟𝑒𝑛𝑎𝑚𝑒 𝑦𝑜𝑢𝑟 𝑓𝑖𝑙𝑒
-• /set_caption - 𝑎𝑑𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
+• /set_caption - 𝑎𝑑𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 𝑦𝑜ᴜ𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
 • /see_caption - 𝑠𝑒𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
 • /del_caption - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
 • /set_thumb - 𝑎𝑑𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
@@ -167,16 +167,13 @@ Use these settings when adding a monitor:</b>
 
 <details><summary><b>Deploy To VPS</summary>
 
+Refer to the [VPS Deployment Guide](VPS_DEPLOYMENT.md) for detailed instructions on how to deploy this bot on a VPS without errors.
 
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
-
-Install Packages
-
-`pip3 install -U -r requirements.txt`
-
-Edit info.py with variables as given below then run bot
-
-`python3 bot.py`
+Basic steps:
+1. `git clone https://github.com/VJBots/VJ-Filter-Bot`
+2. `pip3 install -U -r requirements.txt`
+3. Set your environment variables (see [VPS_DEPLOYMENT.md](VPS_DEPLOYMENT.md))
+4. `python3 bot.py`
 
 </b>
 </details>
@@ -184,7 +181,7 @@ Edit info.py with variables as given below then run bot
 <hr>
 
 
-## Thanks to 
+## Thanks to
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
  - Thanks To [꧁𓆩𝕊𝕌ℙℝ𝔼𝕄𝔼 𝔹𝕆𝕋z𓆪꧂](https://youtube.com/@SUPREME_BOTz) To Modify And Add Amazing Feature In The Repo
  - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
@@ -193,18 +190,16 @@ Edit info.py with variables as given below then run bot
 ## Note 🏷️
 
 <b>• If You Want Paid Edits Or Any Paid Features In Any Kind Of Auto Filter Bot Repo You Can Contact Developer.</b>
- 
+
 [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/SUPREME_BOTz)
 
 <b>Fork The Repo And Edit As Per Your Needs.</b>
 
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)
 <b>Licensed under [GNU AGPL 2.0.](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 
 </pre>
 </p>
 </details>
-
-
